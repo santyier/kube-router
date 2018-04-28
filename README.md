@@ -92,26 +92,21 @@ recipe for high-performance cluster networking at scale. BGP ensures that the
 data path is dynamic and efficient, and IPVS provides in-kernel load balancing
 that has been thouroughly tested and optimized.
 
-## Getting Started
-
-- [How it Works](./docs/how-it-works.md)
-- [Architecture](./docs/README.md#architecture)
-- [See Kube-router in action](./docs/README.md#see-kube-router-in-action)
-- [User Guide](./docs/README.md#user-guide)
-- [Developer Guide](./docs/developing.md)
-
 ## Project status
 
 Kube-router is being used in several production clusters by diverse set of users ranging from financial firms, gaming companies to universities. For almost a year we have listened to users and incorporated feedback. The core functionality is stable. We are working toward GA release.
 
+## Getting Started
+
+Please visit projects documentation website [https://www.kube-router.io/docs/](https://www.kube-router.io/docs/) to know more about theory of operation, architecture, how to deploy and operate Kube-router etc to know more.
+
 ## Contributing
 
-We encourage all kinds of contributions, be they documentation, code, fixing
-typos, tests — anything at all. Please read the [contribution guide](./CONTRIBUTING.md).
+We encourage all kinds of contributions, be they documentation, code, fixing typos, tests — anything at all. Please read the [contribution guide](./CONTRIBUTING.md).
 
 ## Support & Feedback
 
-If you experience any problems please reach us on kube-router [slack channel](https://kubernetes.slack.com/messages/C8DCQGTSB/)
+If you experience any problems please reach us out on kube-router [slack channel](https://kubernetes.slack.com/messages/C8DCQGTSB/)
 for quick help. Feel free to leave feedback or raise questions by opening an issue [here](https://github.com/cloudnativelabs/kube-router/issues).
 
 ## Acknowledgement
